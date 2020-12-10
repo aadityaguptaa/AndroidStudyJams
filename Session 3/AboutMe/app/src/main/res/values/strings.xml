@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Aditya Gupta</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">A potter head and greek mythology enthusiast who mainly programs in <b>Java</b> and has recently ventured out into <b>Python</b>.
+        \n\n >Is trying out <b>ML</b> to see what all the fuss is about and he might actually ❤ it.
+        \n\n >Likes solving problems on <i>hackerrank</i>.
+        \n\n >Currently an undergrad@<b>NIE</b> who loves to develop <b>Android</b> applications.
+        \n\n >Also, <b>Azure</b> is cool.</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+
+</resources>
