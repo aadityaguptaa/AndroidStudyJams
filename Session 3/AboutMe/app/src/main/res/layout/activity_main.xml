@@ -75,9 +75,9 @@
                 style="@style/NameStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/bio"
+                android:fontFamily="@font/caveat"
                 android:lineSpacingMultiplier="1.2"
-            />
+                android:text="@string/bio" />
         </LinearLayout>
 
 

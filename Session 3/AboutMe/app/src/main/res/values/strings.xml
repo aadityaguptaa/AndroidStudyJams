@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">AboutMe</string>
-    <string name="name">Aditya Gupta</string>
+    <string name="name">Bart Simpson</string>
     <string name="yellow_star">Yellow Star</string>
-    <string name="bio">A potter head and greek mythology enthusiast who mainly programs in <b>Java</b> and has recently ventured out into <b>Python</b>.
-        \n\n >Is trying out <b>ML</b> to see what all the fuss is about and he might actually ❤ it.
-        \n\n >Likes solving problems on <i>hackerrank</i>.
-        \n\n >Currently an undergrad@<b>NIE</b> who loves to develop <b>Android</b> applications.
-        \n\n >Also, <b>Azure</b> is cool.</string>
+    <string name="bio">Hey, this is Bart, <b>Bart Simpson</b>. I was created and designed by <b>Matt Groening</b>. My parents <b>Homer</b> and <b>Marge</b> and my siblings <b>Lisa</b> and <b>Maggie</b>.
+        \n\nMy most prominent and popular character traits are his mischievousness, rebelliousness and disrespect for authority.
+        \n\nMy hobbies are skateboarding, watching television (especially The Krusty the Clown Show which includes The Itchy &amp; Scratchy Show), reading comic books (especially Radioactive Man), playing video games and generally causing mischief.
+        \n\nMy favorite movies are Jaws and the Star Wars Trilogy.
+        \n\nSome of my catchphrases: \"Eat my shorts\", \"¡Ay, caramba!\", \"Don\'t have a cow, man!\", and \"I\'m Bart Simpson. Who the hell are you?\"
+
+
+</string>
     <string name="what_is_your_nickname">What is your Nickname?</string>
     <string name="done">Done</string>
 
