@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">vision-starter-code</string>
+    <string name="findMeaningButton">FIND MEANING</string>
+    <string name="tapOnFloat">Tap On Floating Action Button</string>
+</resources>
